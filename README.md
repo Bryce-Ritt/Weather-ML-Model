@@ -58,7 +58,7 @@ Prerequisites
     Python 3.9 or later
     Install the required packages with:
 
-    pip install -r weather_model_v1.1_requirements.txt
+    pip install -r requirements.txt
 
 Running the Model
 
